@@ -41,7 +41,7 @@ Please make sure to read the [Issue Reporting Checklist](https://github.com/unic
 
 ## Changelog
 
-Detailed changes for each release are documented in the [release notes.](https://github.com/unicef/sample-repository/releases)
+Detailed changes for each release are documented in the [release notes.](https://github.com/unicefecar/sample-repository/releases)
 
 
 ## Stay In Touch
@@ -60,5 +60,5 @@ Thank you to all the people who already contributed to sample-repository!
             
 
 ## License
-[GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/unicef/iogt-pwa/blob/master/LICENSE)
+[GNU AFFERO GENERAL PUBLIC LICENSE](https://github.com/unicefecar/sample-repository/blob/master/LICENSE)
 
