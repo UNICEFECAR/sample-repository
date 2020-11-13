@@ -33,16 +33,16 @@ Always use the [templates](https://github.com/unicefecar/sample-repository/issue
 
 ## Setting up your development environment
 This is a starting point for new developers who wish to setup their development workstations. You will need 
-xxxxxx(language, framework, database, device, etc.)xxxxxxxxxxxxxxxx
+xxxxxx(language, framework, database, device, etc.)xxxxxxxxxxxxxxx
 
-1. Clone the repo with `git clone https://github.com/unicefecar/<sample-repository>
+1. Clone the repo with `git clone https://github.com/unicefecar/sample-repository
 
 xxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ### Coding style
 
-Please follow the coding style of the project. <sample-repository> xxxxxxxxxxxxxxxxxxxxxxx
+Please follow the coding style of the project. "sample-repository" xxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxx
