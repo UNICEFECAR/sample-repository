@@ -1,9 +1,9 @@
 # Contributing to sample-repository
 
 
-Interested in contributing tosample-repository ? Thanks! There are plenty of ways you can help.
+There are plenty of ways you can help if you are interested in contributing to the "sample-repository"  
 
-Thank you for helping us make this project great and being a part of the sample-repository  community. Here are a few guidelines that will help you along the way.
+Thank you for helping us make this project great and being a part of the "sample-repository" community. Here are a few guidelines that will help you along the way.
 
 ## Code of Conduct
 
@@ -12,11 +12,9 @@ Please read [the full text](/CODE_OF_CONDUCT.md) so that you can understand what
 
 ## What you need to know
 
-In order to contribute as a developer you will need to have a basic understanding of 
+In order to contribute as a developer you will need to have a basic understanding of:
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx(language, framework, database)xxxxxxxxxxxxxxxx
 
 ## Issue reporting guidelines
 Always use the [templates](https://github.com/unicefecar/sample-repository/issues/new/choose) to create new issues. A typical getting started page looks like:
@@ -34,10 +32,8 @@ Always use the [templates](https://github.com/unicefecar/sample-repository/issue
 * **Comments** allow anyone with access to the repository to provide feedback.
 
 ## Setting up your development environment
-You will need 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+This is a starting point for new developers who wish to setup their development workstations. You will need 
+xxxxxx(language, framework, database, device, etc.)xxxxxxxxxxxxxxxx
 
 1. Clone the repo with `git clone https://github.com/unicefecar/<sample-repository>
 
@@ -56,12 +52,15 @@ xxxxxxxxxxxxxxxxx
 Good pull requests, such as patches, improvements, and new features, are a fantastic help. They should remain focused in scope and avoid containing unrelated commits.
 
 In summary, if you want to contribute to :
-xxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxx
-
+1. Claim an [issue](https://github.com/unicefecar/sample-repository/issues) from the issue tracker.
+2. Fork the [sample-repository](https://https://github.com/unicefecar/sample-repository) project.
+3. Clone it to your local system.
+4. Make a new branch.
+5. Make your changes.
+6. Try as much as you can to include unit tests for your changes. 
+7. Push it back to your repo.
+8. Click the Compare & pull request button.
+9. Click Create pull request to open a new pull request.
 
 
 
