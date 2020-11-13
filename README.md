@@ -3,7 +3,7 @@
 
 ## Documentation
 
-Our [wiki](https://github.com/unicefecar/sample-repository/wiki) has several pages of information for developers, and people contributing to "<sample-repository>". Check it out for your authoritative source of information about the <sample-repository> community.
+Our [wiki](https://github.com/unicefecar/sample-repository/wiki) has several pages of information for developers, and people contributing to "sample-repository". Check it out for your authoritative source of information about the <sample-repository> community.
 
 
 ## Local installation
